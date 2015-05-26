@@ -1,0 +1,5 @@
+- my_printf e my_perror con fflush
+- close(sockfd) in socketConnect()
+- irrigazione: dopo timeoff controllo che canale 1 sia attivabile
+- messo algoritmo di attivabile in funzione
+- importato activateOutputImmediate e deactivateOutputImmediate

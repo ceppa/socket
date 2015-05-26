@@ -1,0 +1,63 @@
+presenze_attiva -> irrigazione_attiva
+presenze_disattiva -> irrigazione_disattiva
+set irrigazione
+get irrigazione
+reload
+update irrigazione
+get presenze_attivo -> get irrigazione_attivo
+
+
+Giorgio
+in tabella digital, record con label "pioggia" identifica il sensore pioggia
+in tabella irrigazione_circuiti, il campo id_digital_out per ogni record rappresenta l'uscita digitale associata al circuito corrispondente
+
+Elisabetta
+nella maschera "gestione programmata irrigazione", quella dove si mettono tutti i valori associati ai circuiti, puoi togliere il pulsante attiva, visto che per attivare manualmente l'irrigazione c'è il pulsante "INIZIA IRRIGAZIONE" nella maschera precedente
+
+il codice per il pulsante "FERMA IRRIGAZIONE" è
+
+on (press) {
+    var address="";
+    address="irrigazione.php?op=irrigazione_disattiva&id_irrigazione=1";
+
+    myData = new LoadVars();
+
+    myData.load(address);
+    myData.onLoad = function(succes)
+    {
+        if (this.errore == "0")
+        {
+            gotoAndPlay("defin");
+        }
+        else
+        {
+            gotoAndPlay(4);
+        }
+    };
+} 
+
+
+il codice per il pulsante "INIZIA IRRIGAZIONE" è
+
+on (press) {
+    var address="";
+    address="irrigazione.php?op=irrigazione_attiva&id_irrigazione=1";
+
+    myData = new LoadVars();
+
+    myData.load(address);
+    myData.onLoad = function(succes)
+    {
+        if (this.errore == "0")
+        {
+            gotoAndPlay("defin");
+        }
+        else
+        {
+            gotoAndPlay(4);
+        }
+    };
+} 
+
+in bocca al lupo
+GNI

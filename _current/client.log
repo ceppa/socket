@@ -1,0 +1,113 @@
+get_shared_memory_segment: reloadCommand
+SHMID: 24674329
+get_shared_memory_segment: sms_numbers
+SHMID: 24707101
+get_shared_memory_segment: systems
+SHMID: 24739870
+get_shared_memory_segment: knxGateways
+SHMID: 24772639
+get_shared_memory_segment: knxTable
+SHMID: 24805408
+get_shared_memory_segment: digitalOutTable
+SHMID: 24838177
+get_shared_memory_segment: scenariPresenzeTable
+SHMID: 24870946
+get_shared_memory_segment: scenariPresenzeAttivo
+SHMID: 24903715
+get_shared_memory_segment: scenariBgBnTable
+SHMID: 24936484
+get_shared_memory_segment: buonGiornoAttivo
+SHMID: 24969253
+get_shared_memory_segment: buonaNotteAttivo
+SHMID: 25002022
+get_shared_memory_segment: digitalTable
+SHMID: 25034791
+get_shared_memory_segment: id_digital_pioggia
+SHMID: 25067560
+get_shared_memory_segment: analogTable
+SHMID: 25100329
+get_shared_memory_segment: irrigazioneTable
+SHMID: 25133102
+get_shared_memory_segment: irrigazioneCircuitiTable
+SHMID: 25165871
+get_shared_memory_segment: ai_sistemi
+SHMID: 25198640
+id: 1 desc: Anti Intrusione n_ss: 2
+	in: 1
+		out: 9
+id: 2 desc: Anti intrusione garage n_ss: 3
+	in: 7
+		out: 9
+	in: 4
+		out: 9
+	in: 2
+		out: 11
+--- DIGITALOUT ---
+1 1 1 dig_out_ch 1 0 0 0 - 0 0
+2 1 2 dig_out_ch 2 0 0 0 - 0 0
+3 1 3 dig_out_ch 3 0 0 0 - 0 0
+4 1 4 dig_out_ch 4 0 0 0 - 0 0
+5 1 5 dig_out_ch 5 0 0 0 - 0 0
+6 1 6 dig_out_ch 6 0 0 0 - 0 0
+7 1 7 dig_out_ch 7 0 0 0 - 0 0
+8 1 8 dig_out_ch 8 0 0 0 - 0 0
+9 1 9 dig_out_ch 9 0 0 0 - 0 0
+10 1 10 dig_out_ch 10 0 0 0 - 0 0
+11 1 11 dig_out_ch 11 0 0 0 - 0 0
+12 1 12 dig_out_ch 12 0 0 0 - 0 0
+13 1 13 dig_out_ch 13 0 0 0 - 0 15
+14 1 14 dig_out_ch 14 0 0 0 - 0 0
+15 1 15 dig_out_ch 15 0 0 0 - 0 0
+16 1 16 dig_out_ch 16 0 0 0 - 0 0
+17 1 17 dig_out_ch 17 0 0 0 - 0 0
+18 1 18 dig_out_ch 18 0 0 0 - 0 0
+19 1 19 dig_out_ch 19 0 0 0 - 0 0
+20 1 20 dig_out_ch 20 0 0 0 - 0 0
+21 1 21 dig_out_ch 21 0 0 0 - 0 0
+22 1 22 dig_out_ch 22 0 0 0 - 0 0
+23 1 23 dig_out_ch 23 0 0 0 - 0 0
+24 1 24 dig_out_ch 24 0 0 0 - 0 0
+25 1 25 dig_out_ch 25 0 0 0 - 0 0
+26 1 26 dig_out_ch 26 0 0 0 - 0 0
+27 1 27 dig_out_ch 27 0 0 0 - 0 0
+28 1 28 dig_out_ch 28 0 0 0 - 0 0
+29 1 29 dig_out_ch 29 0 0 0 - 0 0
+30 1 30 dig_out_ch 30 0 0 0 - 0 0
+31 1 31 dig_out_ch 31 0 0 0 - 0 0
+32 1 32 dig_out_ch 32 0 0 0 - 0 0
+33 1 33 dig_out_ch 33 0 0 0 - 0 0
+34 1 34 dig_out_ch 34 0 0 0 - 0 0
+35 1 35 dig_out_ch 35 0 0 0 - 0 0
+36 1 36 dig_out_ch 36 0 0 0 - 0 0
+37 1 37 dig_out_ch 37 0 0 0 - 0 0
+38 1 38 dig_out_ch 38 0 0 0 - 0 0
+39 1 39 dig_out_ch 39 0 0 0 - 0 0
+40 1 40 dig_out_ch 40 0 0 0 - 0 0
+pid: 19670
+0.006183 seconds to initialise
+sms sender pid 19671
+system pid 19672
+knx pid 19673
+controller pid 19674
+server pid 19675
+trying to connect to system 127.0.0.1 port 3491
+address 127.0.0.1, port 3491, type 2 connected
+signal 15 to 19673
+system 19673 died
+Not all children are alive
+You had better restart
+signal 15 to 19672
+system 19672 died
+signal 15 to 19671
+sms server 19671 died
+signal 15 to 19670
+ho ricevuto 15
+killing controller
+signal 15 to 19674
+controller 19674 died
+killing systems
+killing server
+signal 15 to 19675
+server 19675 died
+killing sms
+Fine

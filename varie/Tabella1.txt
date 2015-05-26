@@ -1,0 +1,88 @@
+1;1;1;Clima 1 Ch 1;0;0
+2;1;2;Clima 1 Ch 2;0;0
+3;1;3;Clima 1 Ch 3;0;0
+4;1;4;Clima 1 Ch 4;0;0
+5;1;5;Clima 1 Ch 5;0;0
+6;1;6;Clima 1 Ch 6;0;0
+7;1;7;Clima 1 Ch 7;0;0
+8;1;8;Clima 1 Ch 8;0;0
+9;1;9;Clima 1 Ch 9;0;0
+10;1;10;Clima 1 Ch 10;0;0
+11;1;11;Clima 1 Ch 11;0;0
+12;1;12;Clima 1 Ch 12;0;0
+13;1;13;Clima 1 Ch 13;0;0
+14;1;14;Clima 1 Ch 14;0;0
+15;1;15;Clima 1 Ch 15;0;0
+16;1;16;Clima 1 Ch 16;0;0
+17;1;17;Clima 1 Ch 17;0;0
+18;1;18;Clima 1 Ch 18;0;0
+19;1;19;Clima 1 Ch 19;0;0
+20;1;20;Clima 1 Ch 20;0;0
+21;1;21;Clima 1 Ch 21;0;0
+22;1;22;Clima 1 Ch 22;0;0
+23;1;23;Clima 1 Ch 23;0;0
+24;1;24;Clima 1 Ch 24;0;0
+25;1;25;Clima 1 Ch 25;0;0
+26;1;26;Clima 1 Ch 26;0;0
+27;1;27;Clima 1 Ch 27;0;0
+28;1;28;Clima 1 Ch 28;0;0
+29;1;29;Clima 1 Ch 29;0;0
+30;1;30;Clima 1 Ch 30;0;0
+31;1;31;Clima 1 Ch 31;0;0
+32;1;32;Clima 1 Ch 32;0;0
+33;1;33;Clima 1 Ch 33;0;0
+34;1;34;Clima 1 Ch 34;0;0
+35;1;35;Clima 1 Ch 35;0;0
+36;1;36;Clima 1 Ch 36;0;0
+37;1;37;Clima 1 Ch 37;0;0
+38;1;38;Clima 1 Ch 38;0;0
+39;1;39;Clima 1 Ch 39;0;0
+40;1;40;Clima 1 Ch 40;0;0
+41;2;1;Centrale Ch 1;0;0
+42;2;2;Centrale Ch 2;0;0
+43;2;3;Centrale Ch 3;0;0
+44;2;4;Centrale Ch 4;0;0
+45;2;5;Centrale Ch 5;0;0
+46;2;6;Centrale Ch 6;0;0
+47;2;7;Centrale Ch 7;0;0
+48;2;8;Centrale Ch 8;0;0
+49;2;9;Centrale Ch 9;0;0
+50;2;10;Centrale Ch 10;0;0
+51;2;11;Centrale Ch 11;0;0
+52;2;12;Centrale Ch 12;0;0
+53;2;13;Centrale Ch 13;0;0
+54;2;14;Centrale Ch 14;0;0
+55;2;15;Centrale Ch 15;0;0
+56;2;16;Centrale Ch 16;0;0
+57;2;17;Centrale Ch 17;0;0
+58;2;18;Centrale Ch 18;0;0
+59;2;19;Centrale Ch 19;0;0
+60;2;20;Centrale Ch 20;0;0
+61;2;21;Centrale Ch 21;0;0
+62;2;22;Centrale Ch 22;0;0
+63;2;23;Centrale Ch 23;0;0
+64;2;24;Centrale Ch 24;0;0
+65;2;25;Centrale Ch 25;0;0
+66;2;26;Centrale Ch 26;0;0
+67;2;27;Centrale Ch 27;0;0
+68;2;28;Centrale Ch 28;0;0
+69;2;29;Centrale Ch 29;0;0
+70;2;30;Centrale Ch 30;0;0
+71;2;31;Centrale Ch 31;0;0
+72;2;32;Centrale Ch 32;0;0
+73;2;33;Centrale Ch 33;0;0
+74;2;34;Centrale Ch 34;0;0
+75;2;35;Centrale Ch 35;0;0
+76;2;36;Centrale Ch 36;0;0
+77;2;37;Centrale Ch 37;0;0
+78;2;38;Centrale Ch 38;0;0
+79;2;39;Centrale Ch 39;0;0
+80;2;40;Centrale Ch 40;0;0
+81;3;1;Meteo Ch 1;0;0
+82;3;2;Meteo Ch 2;0;0
+83;3;3;Meteo Ch 3;0;0
+84;3;4;Meteo Ch 4;0;0
+85;3;5;Meteo Ch 5;0;0
+86;3;6;Meteo Ch 6;0;0
+87;3;7;Meteo Ch 7;0;0
+88;3;8;Meteo Ch 8;0;0

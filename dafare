@@ -1,0 +1,59 @@
+-irrigazione a cavallo di mezzanotte time_t time()	//FATTO!!!
+
+-in tabella alarm ci metto anche digital_out ma manca il campo --- ci metto il campo o risolvo diversamente gli allarmi digital_out(ad esempio inizio irrigazione)
+-DIGITAL OUT HA TIMEOUT ANCHE QUANDO NON CE L'HA	//fatto
+-po_delay, on_time, pon_time, poff_time, po_delay
+-po_delay viene azzerato in irrigazione
+-antiintrusione (aspetto che Giorgio mi dica)
+
+attualmente sono usati po_delay e on_time
+digital_out.c in setOutput() ecc, systems.c in operate()
+spostare tutti i storeMessage in sms, va fatto in modo di inserire tutte le info in msgsnd
+
+
+
+po_delay;			// poweron delay, ritardo prima di cominciare on (on è on_value??)
+on_time;			// tempo durante il quale out rimane on (on è on_value??), poi va ad off
+
+attualmente non ancora usati:
+pon_time;			// tempo di transizione per andare ad on
+poff_time;			// tempo di transizione per andare ad off
+
+in scenari_presenze viene aggiornato po_delay!!!
+
+
+!!!in buongiorno buonanotte c'è temperatura oltre a uscite digitali: come gestire analog out???
+
+
+la mia decisione:
+po_delay è runtime delay usato durante scenari
+
+on_time è tempo che va on e poi torna ad off
+
+pon_time, tempo da attendere prima di settare ad on
+poff_time, tempo da attendere prima di settare ad off
+
+mettere a posto alarm!!!simulazione presenze!!!
+
+
+
+
+
+
+
+-----------------------------------------------------
+Irrigazione sta su processo separato, non dipende dalla connessione alla scheda
+C'era un errore nella riconnessione che rimetteva tutte le uscite a default facendo casini
+Il problema della mezzanotte è risolto salvo prova contraria
+Ho tolto i messaggi di irrigazione dagli allarmi. 
+Ora allarmi sono segnalati solo se ingressi superano soglia 
+
+
+da fare:
+setOutput, controllare se scheda scollegata
+
+
+in digital_out ci metto valore da confermare?
+fatto, si chiama value_real ed è quello effettivamente inviato alla scheda
+
+alarms!!!

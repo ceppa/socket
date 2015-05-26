@@ -1,0 +1,10 @@
+domotica:
+
+aggiungere nelle tabelle knx_in_out, analog, bacnet_inputs 2 campi float (anche negativi) per max e min dei grafici
+	pmax, pmin, se vuoto scala in automatico
+spostare il off un poco in alto
+aggiugere campo on_value in tabella bacnet_inputs e knx_in_out, e usarlo per definire valore on del grafico
+riconoscere il dispositivo che mi sta interrogando
+
+
+

@@ -1,0 +1,546 @@
+1
+0 0 1
+0 1 2
+0 2 3
+0 3 4
+0 4 5
+0 5 6
+0 6 7
+0 7 8
+0 8 9
+0 9 10
+0 10 11
+0 11 12
+0 12 13
+0 13 14
+0 14 15
+0 15 16
+1 1 Pressione 1
+1 2 analog 1 channel 2 1
+1 3 analog 1 channel 3 1
+1 4 analog 1 channel 1 latino 1
+1 5 analog 1 channel 5 1
+1 6 analog 1 channel 6 1
+1 7 analog 1 channel 7 1
+1 8 analog 1 channel 8 1
+2 1 Temp. Mandata 1
+2 2 Temp. Ritorno 1
+2 3 Temp. Mandata Circuito 1 1
+2 4 Temp. Ritorno Circuito 1 1
+2 5 Temp. Mandata Circuito 2 1
+2 6 Temp. Ritorno Circuito 2 1
+2 7 Temp. Mandata Circuito 3 1
+2 8 Temp. Ritorno Circuito 3 1
+3 1 Vento 1 0
+3 2 Vento 2 0
+3 3 Luminosità esterna 0
+3 4 Temperatura esterna 1
+3 5 analog 3 channel 5 0
+3 6 Umidita' 1
+3 7 analog 3 channel 7 0
+3 8 analog 3 channel 8 0
+1 1 Crepuscolare 1
+1 2 Pioggia 1
+2 1 Termostato PT 1
+2 2 Termostato Zona Giorno 1
+3 1 digital 1 channel 1 1
+3 2 digital 3 channel 2 1
+1 1 Clima 1 Ch 1 0
+1 2 Clima 1 Ch 2 0
+1 3 Clima 1 Ch 3 0
+1 4 Clima 1 Ch 4 0
+1 5 Clima 1 Ch 5 0
+1 6 Clima 1 Ch 6 0
+1 7 Clima 1 Ch 7 0
+1 8 Clima 1 Ch 8 0
+1 9 Clima 1 Ch 9 0
+1 10 Clima 1 Ch 10 0
+1 11 Clima 1 Ch 11 0
+1 12 Clima 1 Ch 12 0
+1 13 Clima 1 Ch 13 0
+1 14 Clima 1 Ch 14 0
+1 15 Clima 1 Ch 15 0
+1 16 Clima 1 Ch 16 0
+1 17 Clima 1 Ch 17 0
+1 18 Clima 1 Ch 18 0
+1 19 Clima 1 Ch 19 0
+1 20 Clima 1 Ch 20 0
+1 21 Clima 1 Ch 21 0
+1 22 Clima 1 Ch 22 0
+1 23 Clima 1 Ch 23 0
+1 24 Clima 1 Ch 24 0
+1 25 Clima 1 Ch 25 0
+1 26 Clima 1 Ch 26 0
+1 27 Clima 1 Ch 27 0
+1 28 Clima 1 Ch 28 0
+1 29 Clima 1 Ch 29 0
+1 30 Clima 1 Ch 30 0
+1 31 Clima 1 Ch 31 0
+1 32 Clima 1 Ch 32 0
+1 33 Clima 1 Ch 33 0
+1 34 Clima 1 Ch 34 0
+1 35 Clima 1 Ch 35 0
+1 36 Clima 1 Ch 36 0
+1 37 Clima 1 Ch 37 0
+1 38 Clima 1 Ch 38 0
+1 39 Clima 1 Ch 39 0
+1 40 Clima 1 Ch 40 0
+2 1 Centrale Ch 1 0
+2 2 Centrale Ch 2 0
+2 3 Centrale Ch 3 0
+2 4 Centrale Ch 4 0
+2 5 Centrale Ch 5 0
+2 6 Centrale Ch 6 0
+2 7 Centrale Ch 7 0
+2 8 Centrale Ch 8 0
+2 9 Centrale Ch 9 0
+2 10 Centrale Ch 10 0
+2 11 Centrale Ch 11 0
+2 12 Centrale Ch 12 0
+2 13 Centrale Ch 13 0
+2 14 Centrale Ch 14 0
+2 15 Centrale Ch 15 0
+2 16 Centrale Ch 16 0
+2 17 Centrale Ch 17 0
+2 18 Centrale Ch 18 0
+2 19 Centrale Ch 19 0
+2 20 Centrale Ch 20 0
+2 21 Centrale Ch 21 0
+2 22 Centrale Ch 22 0
+2 23 Centrale Ch 23 0
+2 24 Centrale Ch 24 0
+2 25 Centrale Ch 25 0
+2 26 Centrale Ch 26 0
+2 27 Centrale Ch 27 0
+2 28 Centrale Ch 28 0
+2 29 Centrale Ch 29 0
+2 30 Centrale Ch 30 0
+2 31 Centrale Ch 31 0
+2 32 Centrale Ch 32 0
+2 33 Centrale Ch 33 0
+2 34 Centrale Ch 34 0
+2 35 Centrale Ch 35 0
+2 36 Centrale Ch 36 0
+2 37 Centrale Ch 37 0
+2 38 Centrale Ch 38 0
+2 39 Centrale Ch 39 0
+2 40 Centrale Ch 40 0
+3 1 Meteo Ch 1 0
+3 2 Meteo Ch 2 0
+3 3 Meteo Ch 3 0
+3 4 Meteo Ch 4 0
+3 5 Meteo Ch 5 0
+3 6 Meteo Ch 6 0
+3 7 Meteo Ch 7 0
+3 8 Meteo Ch 8 0
+0.017817 seconds to initialise
+address 192.168.1.104, port 1001, type 2 connected
+1
+0 0 1
+0 1 2
+0 2 3
+0 3 4
+0 4 5
+0 5 6
+0 6 7
+0 7 8
+0 8 9
+0 9 10
+0 10 11
+0 11 12
+0 12 13
+0 13 14
+0 14 15
+0 15 16
+1 1 Pressione 1
+1 2 analog 1 channel 2 1
+1 3 analog 1 channel 3 1
+1 4 analog 1 channel 1 latino 1
+1 5 analog 1 channel 5 1
+1 6 analog 1 channel 6 1
+1 7 analog 1 channel 7 1
+1 8 analog 1 channel 8 1
+2 1 Temp. Mandata 1
+2 2 Temp. Ritorno 1
+2 3 Temp. Mandata Circuito 1 1
+2 4 Temp. Ritorno Circuito 1 1
+2 5 Temp. Mandata Circuito 2 1
+2 6 Temp. Ritorno Circuito 2 1
+2 7 Temp. Mandata Circuito 3 1
+2 8 Temp. Ritorno Circuito 3 1
+3 1 Vento 1 0
+3 2 Vento 2 0
+3 3 Luminosità esterna 0
+3 4 Temperatura esterna 1
+3 5 analog 3 channel 5 0
+3 6 Umidita' 1
+3 7 analog 3 channel 7 0
+3 8 analog 3 channel 8 0
+1 1 Crepuscolare 1
+1 2 Pioggia 1
+2 1 Termostato PT 1
+2 2 Termostato Zona Giorno 1
+3 1 digital 1 channel 1 1
+3 2 digital 3 channel 2 1
+1 1 Clima 1 Ch 1 0
+1 2 Clima 1 Ch 2 0
+1 3 Clima 1 Ch 3 0
+1 4 Clima 1 Ch 4 0
+1 5 Clima 1 Ch 5 0
+1 6 Clima 1 Ch 6 0
+1 7 Clima 1 Ch 7 0
+1 8 Clima 1 Ch 8 0
+1 9 Clima 1 Ch 9 0
+1 10 Clima 1 Ch 10 0
+1 11 Clima 1 Ch 11 0
+1 12 Clima 1 Ch 12 0
+1 13 Clima 1 Ch 13 0
+1 14 Clima 1 Ch 14 0
+1 15 Clima 1 Ch 15 0
+1 16 Clima 1 Ch 16 0
+1 17 Clima 1 Ch 17 0
+1 18 Clima 1 Ch 18 0
+1 19 Clima 1 Ch 19 0
+1 20 Clima 1 Ch 20 0
+1 21 Clima 1 Ch 21 0
+1 22 Clima 1 Ch 22 0
+1 23 Clima 1 Ch 23 0
+1 24 Clima 1 Ch 24 0
+1 25 Clima 1 Ch 25 0
+1 26 Clima 1 Ch 26 0
+1 27 Clima 1 Ch 27 0
+1 28 Clima 1 Ch 28 0
+1 29 Clima 1 Ch 29 0
+1 30 Clima 1 Ch 30 0
+1 31 Clima 1 Ch 31 0
+1 32 Clima 1 Ch 32 0
+1 33 Clima 1 Ch 33 0
+1 34 Clima 1 Ch 34 0
+1 35 Clima 1 Ch 35 0
+1 36 Clima 1 Ch 36 0
+1 37 Clima 1 Ch 37 0
+1 38 Clima 1 Ch 38 0
+1 39 Clima 1 Ch 39 0
+1 40 Clima 1 Ch 40 0
+2 1 Centrale Ch 1 0
+2 2 Centrale Ch 2 0
+2 3 Centrale Ch 3 0
+2 4 Centrale Ch 4 0
+2 5 Centrale Ch 5 0
+2 6 Centrale Ch 6 0
+2 7 Centrale Ch 7 0
+2 8 Centrale Ch 8 0
+2 9 Centrale Ch 9 0
+2 10 Centrale Ch 10 0
+2 11 Centrale Ch 11 0
+2 12 Centrale Ch 12 0
+2 13 Centrale Ch 13 0
+2 14 Centrale Ch 14 0
+2 15 Centrale Ch 15 0
+2 16 Centrale Ch 16 0
+2 17 Centrale Ch 17 0
+2 18 Centrale Ch 18 0
+2 19 Centrale Ch 19 0
+2 20 Centrale Ch 20 0
+2 21 Centrale Ch 21 0
+2 22 Centrale Ch 22 0
+2 23 Centrale Ch 23 0
+2 24 Centrale Ch 24 0
+2 25 Centrale Ch 25 0
+2 26 Centrale Ch 26 0
+2 27 Centrale Ch 27 0
+2 28 Centrale Ch 28 0
+2 29 Centrale Ch 29 0
+2 30 Centrale Ch 30 0
+2 31 Centrale Ch 31 0
+2 32 Centrale Ch 32 0
+2 33 Centrale Ch 33 0
+2 34 Centrale Ch 34 0
+2 35 Centrale Ch 35 0
+2 36 Centrale Ch 36 0
+2 37 Centrale Ch 37 0
+2 38 Centrale Ch 38 0
+2 39 Centrale Ch 39 0
+2 40 Centrale Ch 40 0
+3 1 Meteo Ch 1 0
+3 2 Meteo Ch 2 0
+3 3 Meteo Ch 3 0
+3 4 Meteo Ch 4 0
+3 5 Meteo Ch 5 0
+3 6 Meteo Ch 6 0
+3 7 Meteo Ch 7 0
+3 8 Meteo Ch 8 0
+0.017817 seconds to initialise
+1
+0 0 1
+0 1 2
+0 2 3
+0 3 4
+0 4 5
+0 5 6
+0 6 7
+0 7 8
+0 8 9
+0 9 10
+0 10 11
+0 11 12
+0 12 13
+0 13 14
+0 14 15
+0 15 16
+1 1 Pressione 1
+1 2 analog 1 channel 2 1
+1 3 analog 1 channel 3 1
+1 4 analog 1 channel 1 latino 1
+1 5 analog 1 channel 5 1
+1 6 analog 1 channel 6 1
+1 7 analog 1 channel 7 1
+1 8 analog 1 channel 8 1
+2 1 Temp. Mandata 1
+2 2 Temp. Ritorno 1
+2 3 Temp. Mandata Circuito 1 1
+2 4 Temp. Ritorno Circuito 1 1
+2 5 Temp. Mandata Circuito 2 1
+2 6 Temp. Ritorno Circuito 2 1
+2 7 Temp. Mandata Circuito 3 1
+2 8 Temp. Ritorno Circuito 3 1
+3 1 Vento 1 0
+3 2 Vento 2 0
+3 3 Luminosità esterna 0
+3 4 Temperatura esterna 1
+3 5 analog 3 channel 5 0
+3 6 Umidita' 1
+3 7 analog 3 channel 7 0
+3 8 analog 3 channel 8 0
+1 1 Crepuscolare 1
+1 2 Pioggia 1
+2 1 Termostato PT 1
+2 2 Termostato Zona Giorno 1
+3 1 digital 1 channel 1 1
+3 2 digital 3 channel 2 1
+1 1 Clima 1 Ch 1 0
+1 2 Clima 1 Ch 2 0
+1 3 Clima 1 Ch 3 0
+1 4 Clima 1 Ch 4 0
+1 5 Clima 1 Ch 5 0
+1 6 Clima 1 Ch 6 0
+1 7 Clima 1 Ch 7 0
+1 8 Clima 1 Ch 8 0
+1 9 Clima 1 Ch 9 0
+1 10 Clima 1 Ch 10 0
+1 11 Clima 1 Ch 11 0
+1 12 Clima 1 Ch 12 0
+1 13 Clima 1 Ch 13 0
+1 14 Clima 1 Ch 14 0
+1 15 Clima 1 Ch 15 0
+1 16 Clima 1 Ch 16 0
+1 17 Clima 1 Ch 17 0
+1 18 Clima 1 Ch 18 0
+1 19 Clima 1 Ch 19 0
+1 20 Clima 1 Ch 20 0
+1 21 Clima 1 Ch 21 0
+1 22 Clima 1 Ch 22 0
+1 23 Clima 1 Ch 23 0
+1 24 Clima 1 Ch 24 0
+1 25 Clima 1 Ch 25 0
+1 26 Clima 1 Ch 26 0
+1 27 Clima 1 Ch 27 0
+1 28 Clima 1 Ch 28 0
+1 29 Clima 1 Ch 29 0
+1 30 Clima 1 Ch 30 0
+1 31 Clima 1 Ch 31 0
+1 32 Clima 1 Ch 32 0
+1 33 Clima 1 Ch 33 0
+1 34 Clima 1 Ch 34 0
+1 35 Clima 1 Ch 35 0
+1 36 Clima 1 Ch 36 0
+1 37 Clima 1 Ch 37 0
+1 38 Clima 1 Ch 38 0
+1 39 Clima 1 Ch 39 0
+1 40 Clima 1 Ch 40 0
+2 1 Centrale Ch 1 0
+2 2 Centrale Ch 2 0
+2 3 Centrale Ch 3 0
+2 4 Centrale Ch 4 0
+2 5 Centrale Ch 5 0
+2 6 Centrale Ch 6 0
+2 7 Centrale Ch 7 0
+2 8 Centrale Ch 8 0
+2 9 Centrale Ch 9 0
+2 10 Centrale Ch 10 0
+2 11 Centrale Ch 11 0
+2 12 Centrale Ch 12 0
+2 13 Centrale Ch 13 0
+2 14 Centrale Ch 14 0
+2 15 Centrale Ch 15 0
+2 16 Centrale Ch 16 0
+2 17 Centrale Ch 17 0
+2 18 Centrale Ch 18 0
+2 19 Centrale Ch 19 0
+2 20 Centrale Ch 20 0
+2 21 Centrale Ch 21 0
+2 22 Centrale Ch 22 0
+2 23 Centrale Ch 23 0
+2 24 Centrale Ch 24 0
+2 25 Centrale Ch 25 0
+2 26 Centrale Ch 26 0
+2 27 Centrale Ch 27 0
+2 28 Centrale Ch 28 0
+2 29 Centrale Ch 29 0
+2 30 Centrale Ch 30 0
+2 31 Centrale Ch 31 0
+2 32 Centrale Ch 32 0
+2 33 Centrale Ch 33 0
+2 34 Centrale Ch 34 0
+2 35 Centrale Ch 35 0
+2 36 Centrale Ch 36 0
+2 37 Centrale Ch 37 0
+2 38 Centrale Ch 38 0
+2 39 Centrale Ch 39 0
+2 40 Centrale Ch 40 0
+3 1 Meteo Ch 1 0
+3 2 Meteo Ch 2 0
+3 3 Meteo Ch 3 0
+3 4 Meteo Ch 4 0
+3 5 Meteo Ch 5 0
+3 6 Meteo Ch 6 0
+3 7 Meteo Ch 7 0
+3 8 Meteo Ch 8 0
+0.017817 seconds to initialise
+address 192.168.1.150, port 1001, type 3 connected
+1
+0 0 1
+0 1 2
+0 2 3
+0 3 4
+0 4 5
+0 5 6
+0 6 7
+0 7 8
+0 8 9
+0 9 10
+0 10 11
+0 11 12
+0 12 13
+0 13 14
+0 14 15
+0 15 16
+1 1 Pressione 1
+1 2 analog 1 channel 2 1
+1 3 analog 1 channel 3 1
+1 4 analog 1 channel 1 latino 1
+1 5 analog 1 channel 5 1
+1 6 analog 1 channel 6 1
+1 7 analog 1 channel 7 1
+1 8 analog 1 channel 8 1
+2 1 Temp. Mandata 1
+2 2 Temp. Ritorno 1
+2 3 Temp. Mandata Circuito 1 1
+2 4 Temp. Ritorno Circuito 1 1
+2 5 Temp. Mandata Circuito 2 1
+2 6 Temp. Ritorno Circuito 2 1
+2 7 Temp. Mandata Circuito 3 1
+2 8 Temp. Ritorno Circuito 3 1
+3 1 Vento 1 0
+3 2 Vento 2 0
+3 3 Luminosità esterna 0
+3 4 Temperatura esterna 1
+3 5 analog 3 channel 5 0
+3 6 Umidita' 1
+3 7 analog 3 channel 7 0
+3 8 analog 3 channel 8 0
+1 1 Crepuscolare 1
+1 2 Pioggia 1
+2 1 Termostato PT 1
+2 2 Termostato Zona Giorno 1
+3 1 digital 1 channel 1 1
+3 2 digital 3 channel 2 1
+1 1 Clima 1 Ch 1 0
+1 2 Clima 1 Ch 2 0
+1 3 Clima 1 Ch 3 0
+1 4 Clima 1 Ch 4 0
+1 5 Clima 1 Ch 5 0
+1 6 Clima 1 Ch 6 0
+1 7 Clima 1 Ch 7 0
+1 8 Clima 1 Ch 8 0
+1 9 Clima 1 Ch 9 0
+1 10 Clima 1 Ch 10 0
+1 11 Clima 1 Ch 11 0
+1 12 Clima 1 Ch 12 0
+1 13 Clima 1 Ch 13 0
+1 14 Clima 1 Ch 14 0
+1 15 Clima 1 Ch 15 0
+1 16 Clima 1 Ch 16 0
+1 17 Clima 1 Ch 17 0
+1 18 Clima 1 Ch 18 0
+1 19 Clima 1 Ch 19 0
+1 20 Clima 1 Ch 20 0
+1 21 Clima 1 Ch 21 0
+1 22 Clima 1 Ch 22 0
+1 23 Clima 1 Ch 23 0
+1 24 Clima 1 Ch 24 0
+1 25 Clima 1 Ch 25 0
+1 26 Clima 1 Ch 26 0
+1 27 Clima 1 Ch 27 0
+1 28 Clima 1 Ch 28 0
+1 29 Clima 1 Ch 29 0
+1 30 Clima 1 Ch 30 0
+1 31 Clima 1 Ch 31 0
+1 32 Clima 1 Ch 32 0
+1 33 Clima 1 Ch 33 0
+1 34 Clima 1 Ch 34 0
+1 35 Clima 1 Ch 35 0
+1 36 Clima 1 Ch 36 0
+1 37 Clima 1 Ch 37 0
+1 38 Clima 1 Ch 38 0
+1 39 Clima 1 Ch 39 0
+1 40 Clima 1 Ch 40 0
+2 1 Centrale Ch 1 0
+2 2 Centrale Ch 2 0
+2 3 Centrale Ch 3 0
+2 4 Centrale Ch 4 0
+2 5 Centrale Ch 5 0
+2 6 Centrale Ch 6 0
+2 7 Centrale Ch 7 0
+2 8 Centrale Ch 8 0
+2 9 Centrale Ch 9 0
+2 10 Centrale Ch 10 0
+2 11 Centrale Ch 11 0
+2 12 Centrale Ch 12 0
+2 13 Centrale Ch 13 0
+2 14 Centrale Ch 14 0
+2 15 Centrale Ch 15 0
+2 16 Centrale Ch 16 0
+2 17 Centrale Ch 17 0
+2 18 Centrale Ch 18 0
+2 19 Centrale Ch 19 0
+2 20 Centrale Ch 20 0
+2 21 Centrale Ch 21 0
+2 22 Centrale Ch 22 0
+2 23 Centrale Ch 23 0
+2 24 Centrale Ch 24 0
+2 25 Centrale Ch 25 0
+2 26 Centrale Ch 26 0
+2 27 Centrale Ch 27 0
+2 28 Centrale Ch 28 0
+2 29 Centrale Ch 29 0
+2 30 Centrale Ch 30 0
+2 31 Centrale Ch 31 0
+2 32 Centrale Ch 32 0
+2 33 Centrale Ch 33 0
+2 34 Centrale Ch 34 0
+2 35 Centrale Ch 35 0
+2 36 Centrale Ch 36 0
+2 37 Centrale Ch 37 0
+2 38 Centrale Ch 38 0
+2 39 Centrale Ch 39 0
+2 40 Centrale Ch 40 0
+3 1 Meteo Ch 1 0
+3 2 Meteo Ch 2 0
+3 3 Meteo Ch 3 0
+3 4 Meteo Ch 4 0
+3 5 Meteo Ch 5 0
+3 6 Meteo Ch 6 0
+3 7 Meteo Ch 7 0
+3 8 Meteo Ch 8 0
+0.017817 seconds to initialise

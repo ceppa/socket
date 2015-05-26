@@ -1,0 +1,22 @@
+	int id_digital_out;
+	char description[50];
+	int device_num;
+	int ch_num;
+	int def;				// default value
+	int on_value;			// on value
+	int po_delay;			// poweron delay
+	int on_time;			// relay impulse length (0=no impulse means no releay involved)
+	int pon_time;			// time taken to fully power on
+	int poff_time;			// time taken to fully power off
+not used at all, not in db//	int id_digital;			// associate digital input for relay value 
+	int req_value;			// requested value, after possible po_delay
+	int value;				// current value to send to board
+	int value_real;			// last value successfully sent to board
+	int value1;				// past real value
+	bool printer;
+	bool sms;
+	char msg_l[80];			// message when going 0
+	char msg_h[80];			// message when going 1
+only loaded //	bool msg_is_event;
+	time_t start_time;		// start timestamp 
+not used at all//	time_t act_time;
